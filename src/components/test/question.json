@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_test_questions",
+  "info": {
+    "displayName": "Question",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
